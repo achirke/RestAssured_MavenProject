@@ -1,0 +1,9 @@
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/PostRequestWithMap.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPIChaining/EndToEndTest.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/PostCallWithJSONFile.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/PostRequest.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/GetRequestWithPara.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/GetRequest.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/PutRequest.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/PostRequestWithJSONObject.java
+/home/achirkecisco/eclipse-workspace/RestAssured_Maven/src/test/java/restAPI/DeleteRequest.java
